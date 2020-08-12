@@ -1,4 +1,4 @@
-import image from '../public/image.png'
+import image from '../public/portadas/image.png'
 
 export default function Home() {
   return (
